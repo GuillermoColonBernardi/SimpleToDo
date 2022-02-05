@@ -36,7 +36,7 @@ This was really fun to do, I had a few issues when finishing the tutorial videos
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Guillermo Colón]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
