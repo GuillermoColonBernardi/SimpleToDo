@@ -32,9 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-After finishing the turorial videos, for some reason the button no longer resets the text field even though I have 
-the code for it impemented and the "ADD" word on it dissapiears as after clicking on it once. This didn't happened 
-before but I coundn't find the reason for this.
+This was really fun to do, I had a few issues when finishing the tutorial videos since a few features weren't working as intended but were working just fine before that, however all it's fixed already. Had to change my data.txt name and modified a lilttle other parts of the code. I enjoyed this a lot. I couldn't make any bonus feature but I'll surely work on those later.
 
 ## License
 
