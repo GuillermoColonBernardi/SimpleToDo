@@ -4,7 +4,7 @@
 
 Submitted by: **Guillermo Colón**
 
-Time spent: **12** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
